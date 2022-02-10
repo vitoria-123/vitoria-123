@@ -1,7 +1,7 @@
 ## Olá! Sou a Vitória.
 
 - 🔭 Estudo Desenvolvimento de Sistemas;
-- 🌱 Estou aprendendo Git, C++, JS, CSS, Java; 
+- 🌱 Estou aprendendo Git, C++, C#, JS, CSS, Java; 
 
 <div align="center">
   <a href="https://github.com/vitoria-123">
